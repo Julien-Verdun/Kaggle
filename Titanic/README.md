@@ -22,6 +22,6 @@ I only trained my algorithms with the following features :
 
 ## Main results
 
-The **neural network** worked perfectly and achieved an **accuracy of 100%** without any false positive and false negative (regarding the confusion matrix).
+The **neural network** worked very well and achieved an **accuracy of 98%** with only a little false positive and false negative (regarding the confusion matrix).
 
-The **logistic algorithm** was less efficient than the first approach but was still very accurate. In fact it worked with an **accuracy of 97%**.
+The **logistic algorithm** gave almost the same result than the first approach and was also very accurate. In fact it worked with an **accuracy of 97%**.
