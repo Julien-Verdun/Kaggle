@@ -18,10 +18,13 @@ I only trained my algorithms with the following features :
 - the class
 - the age
 - the number of siblings/spouses
-- the number of parents/children.
+- the number of parents/children
+- the tile (mr, miss, mrs).
 
 ## Main results
 
-The **neural network** worked very well and achieved an **accuracy of 98%** with only a little false positive and false negative (regarding the confusion matrix).
+The **neural network** worked and achieved an **accuracy of 77.5%** with only a little false positive and false negative (regarding the confusion matrix).
 
-The **logistic algorithm** gave almost the same result than the first approach and was also very accurate. In fact it worked with an **accuracy of 97%**.
+The **logistic algorithm** gave almost the same result than the first approach. In fact it worked with an **accuracy of 80%**.
+
+The **first submission** resulted in a score of 77%.
