@@ -43,3 +43,7 @@ The method used in this project is a _Convolutional Neural Network_ (CNN).
 I used a **Convolutional Neural Network** to classify the images.
 
 I got an accuracy of **80%** on evaluation data.
+
+### Example of image prediction :
+
+![training results](./training_result.PNG)
